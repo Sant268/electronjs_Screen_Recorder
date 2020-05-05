@@ -2,7 +2,7 @@
   "name": "scrrcd",
   "productName": "scrrcd",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "My Electron Screen Recorder",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
@@ -12,7 +12,7 @@
     "lint": "echo \"No linting configured\""
   },
   "keywords": [],
-  "author": "Rajul Booch",
+  "author": "Kunal Booch",
   "license": "MIT",
   "config": {
     "forge": {
